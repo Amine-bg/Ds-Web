@@ -7,7 +7,7 @@
 
 /*====HEADER====*/
 header{
-    background: url(./pics/header.jpg) center/cover fixed no-repeat;
+    background: url(./header.jpg) center/cover fixed no-repeat;
     display: flex;
     flex-wrap: wrap;    
     justify-content: space-between;
@@ -25,7 +25,7 @@ header img{
 }
 @media screen and (min-width:700px){
     header{
-        background: url(./pics/header.jpg) center/cover fixed no-repeat;
+        background: url(./header.jpg) center/cover fixed no-repeat;
         display: flex;
         flex-wrap: wrap;    
         justify-content: space-between;
@@ -45,7 +45,7 @@ header img{
 
 /*====BODY====*/
 body{
-    background: url(./pics/idea.jpg) center/cover fixed no-repeat;    
+    background: url(./idea.jpg) center/cover fixed no-repeat;    
 }
 
 
