@@ -1,0 +1,42 @@
+body{
+    background: url(./pics/front.jpg) center/cover fixed no-repeat;
+}
+
+.banner{
+    padding: 10px;
+    flex:1 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15rem;
+}
+
+form{ 
+    flex: 0 0 90%;
+    text-align: center;
+    padding: 100px 0;
+    outline: 1px solid #191919;
+    outline-offset: -10px;
+    background: rgba(161, 156, 170, 0.5);
+}
+
+.mail-ctrl{
+    padding: 11px 9px 11px 9px;
+    font-size: 20px;
+    border: 2px solid grey;
+    border-radius: 12px;
+}
+
+.login-btn{
+    font-size: 20px;
+    padding: 11px 10px 11px 10px;
+    border: 2px solid grey;
+    border-radius: 12px;
+    text-transform: capitalize;
+    letter-spacing: 7px;
+}
+
+   
+
+    
+
